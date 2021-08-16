@@ -32,5 +32,9 @@ companies hiring technical community builders ([more info on this here](https://
   - A batteries-included library for building authorization in your application.
   - Hiring [Developer + Community Advocate](https://www.osohq.com/jobs/dev-advocate)
   - Opportunity to make a large impact on the product and the community, but also on the culture and future of the company.
+- **[Ethyca](https://ethyca.com)**
+  - Ethyca is building the trust infrastructure of the internet with a suite of developer tools that make it easy to bake privacy compliance into SDLC.
+  - Hiring for a [technical community builder](https://ethyca.com/jobs/?gh_jid=4646361003) - contact [Cillian](https://twitter.com/cillian) (CEO) or [James](https://twitter.com/ShellB0T) (Head of Content)
+  - Excellent chance to build a community around an emerging category from ground-up!
 
 Feel free to make a PR if you are hiring such a role!
